@@ -2,10 +2,13 @@
 
 using namespace std;
 
-int main()
+int main()  // Execution starts
 {
-    cout << "Hello world!" << endl;
-    cout << "C++ Learning" << endl;
+    cout << "     / |" << endl;
+    cout << "    /  |" << endl;
+    cout << "   /   |" << endl;
+    cout << "  /    |" << endl;
+    cout << " /_____|" << endl;
 
     return 0;
 }
